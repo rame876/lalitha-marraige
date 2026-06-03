@@ -55,7 +55,7 @@
                 Catering Menu Plan
             </div>
             <h1 class="text-3xl md:text-5xl font-bold text-gray-900 mb-2">
-                South Indian Wedding Menu
+                Lalitha's Wedding Meal Menu
             </h1>
             <p class="text-gray-600 text-lg">June 23 - 26, 2026 | 55 Guests</p>
             <div class="mt-4 flex items-center justify-center gap-2 text-sm text-gray-500">
